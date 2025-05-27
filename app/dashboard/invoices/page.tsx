@@ -1,8 +1,8 @@
 
-
 export default function Page() {
   return (
-    <div>Páginade facturas
+    <div >
+      Página de facturas 
     </div>
-  )
-}
+  );
+};
